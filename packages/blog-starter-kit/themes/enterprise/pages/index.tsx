@@ -129,6 +129,7 @@ export default function Index({ publication, initialAllPosts, initialPageInfo }:
 							<div className="col-span-1 flex flex-col items-center gap-5 text-center text-slate-700 dark:text-neutral-400 lg:col-start-2">
 								<div className="w-20">
 									<ArticleSVG clasName="stroke-current" />
+{/* 									<ArticleSVG clasName="stroke-current" /> */}
 								</div>
 								<p className="text-xl font-semibold ">
 									Hang tight! We&apos;re drafting the first article.
