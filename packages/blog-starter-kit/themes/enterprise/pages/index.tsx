@@ -122,7 +122,7 @@ export default function Index({ publication, initialAllPosts, initialPageInfo }:
 				</Head>
 				<Header />
 				<Container className="flex flex-col items-stretch gap-10 px-5 pb-10">
-{/* 					<Navbar /> */}
+					<Navbar />
 
 					{allPosts.length === 0 && (
 						<div className="grid grid-cols-1 py-20 lg:grid-cols-3">
