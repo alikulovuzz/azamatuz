@@ -95,6 +95,7 @@ export default function Index(
 				<Head>
 					<title>
 						{publication.displayTitle || publication.title || 'Hashnode Blog Starter Kit'}
+{/* 						{publication.displayTitle || publication.title || 'Hashnode Blog Starter Kit'} */}
 					</title>
 					<meta
 						name="description"
